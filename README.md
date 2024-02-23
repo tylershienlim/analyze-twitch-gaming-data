@@ -1,5 +1,5 @@
 #  Analyzing Twitch Gaming Data
-by @tylershienlim
+by [@tylershienlim](https://github.com/tylershienlim)
 
 ## Project Overview
 *About Twitch:*
